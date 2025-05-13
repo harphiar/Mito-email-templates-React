@@ -1,0 +1,618 @@
+.accountcreationconfirmation-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.accountcreationconfirmation-accountcreationconfirmation {
+  width: 100%;
+  height: 1180px;
+  display: flex;
+  overflow: hidden;
+  align-self: center;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: row;
+  justify-content: center;
+  background-color: rgba(243, 242, 241, 1);
+}
+ 
+.accountcreationconfirmation-text10 {
+  gap: 8px;
+  top: 112px;
+  left: 0px;
+  right: 0px;
+  width: 552px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.accountcreationconfirmation-text11 {
+  color: rgba(50, 49, 48, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 24px;
+  font-style: normal;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  letter-spacing: 0px;
+}
+ 
+.accountcreationconfirmation-frame1867 {
+  gap: 16px;
+  top: 180px;
+  left: 0px;
+  right: 0px;
+  width: 552px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.accountcreationconfirmation-frame18541 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.accountcreationconfirmation-text12 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+ 
+.accountcreationconfirmation-text13 {
+  color: rgba(96, 94, 92, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: BentonSans Bold;
+  font-weight: 400px;
+  line-height: 24px;
+  font-stretch: normal;
+  letter-spacing: 0px;
+}
+ 
+.accountcreationconfirmation-text14 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.accountcreationconfirmation-text15 {
+  color: rgba(96, 94, 92, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  letter-spacing: 0px;
+}
+ 
+.accountcreationconfirmation-frame2833 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.accountcreationconfirmation-text16 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+ 
+.accountcreationconfirmation-text17 {
+  color: rgba(96, 94, 92, 1);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.accountcreationconfirmation-frame2832 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.accountcreationconfirmation-frame2830 {
+  gap: 4px;
+  width: 131px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.accountcreationconfirmation-text18 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+ 
+.accountcreationconfirmation-text19 {
+  color: rgba(96, 94, 92, 1);
+  height: auto;
+  text-align: left;
+  line-height: 19.5px;
+}
+ 
+.accountcreationconfirmation-text20 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+ 
+.accountcreationconfirmation-text21 {
+  color: rgba(96, 94, 92, 1);
+  height: auto;
+  text-align: left;
+  line-height: 19.5px;
+}
+ 
+.accountcreationconfirmation-text22 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.accountcreationconfirmation-text23 {
+  color: rgba(96, 94, 92, 1);
+  height: auto;
+  text-align: left;
+  line-height: 19.5px;
+}
+ 
+.accountcreationconfirmation-text24 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.accountcreationconfirmation-text25 {
+  color: rgba(96, 94, 92, 1);
+  height: auto;
+  text-align: left;
+  line-height: 19.5px;
+}
+ 
+.accountcreationconfirmation-text26 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.accountcreationconfirmation-text27 {
+  color: rgba(96, 94, 92, 1);
+  height: auto;
+  text-align: left;
+  line-height: 19.5px;
+}
+ 
+.accountcreationconfirmation-frame2831 {
+  gap: 4px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.accountcreationconfirmation-text28 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+ 
+.accountcreationconfirmation-text29 {
+  color: rgba(96, 94, 92, 1);
+  height: auto;
+  text-align: left;
+  line-height: 19.5px;
+}
+ 
+.accountcreationconfirmation-text30 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.accountcreationconfirmation-text31 {
+  color: rgba(96, 94, 92, 1);
+  height: auto;
+  text-align: left;
+  line-height: 19.5px;
+}
+ 
+.accountcreationconfirmation-text32 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+ 
+.accountcreationconfirmation-text33 {
+  color: rgba(96, 94, 92, 1);
+  height: auto;
+  text-align: left;
+  line-height: 19.5px;
+}
+ 
+.accountcreationconfirmation-text34 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+ 
+.accountcreationconfirmation-text35 {
+  color: rgba(96, 94, 92, 1);
+  height: auto;
+  text-align: left;
+  line-height: 19.5px;
+}
+ 
+.accountcreationconfirmation-text36 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+ 
+.accountcreationconfirmation-text37 {
+  color: rgba(96, 94, 92, 1);
+  height: auto;
+  text-align: left;
+  line-height: 19.5px;
+}
+ 
+.accountcreationconfirmation-frame2834 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.accountcreationconfirmation-text38 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+ 
+.accountcreationconfirmation-text39 {
+  color: rgba(96, 94, 92, 1);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.accountcreationconfirmation-text40 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.accountcreationconfirmation-text41 {
+  color: rgba(96, 94, 92, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 400px;
+  line-height: 24px;
+  font-stretch: normal;
+  letter-spacing: 0px;
+}
+ 
+.accountcreationconfirmation-text42 {
+  text-decoration: NONE;
+}
+ 
+.accountcreationconfirmation-text43 {
+  text-decoration: UNDERLINE;
+}
+ 
+.accountcreationconfirmation-frame18542 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.accountcreationconfirmation-text50 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.accountcreationconfirmation-text51 {
+  color: rgba(96, 94, 92, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.accountcreationconfirmation-frame1865 {
+  gap: 8px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.accountcreationconfirmation-frame1863 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.accountcreationconfirmation-mail {
+  width: 24px;
+  height: 24px;
+}
+ 
+.accountcreationconfirmation-text57 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+ 
+.accountcreationconfirmation-text58 {
+  color: rgba(96, 94, 92, 1);
+  height: auto;
+  text-align: left;
+  line-height: 19.5px;
+}
+ 
+.accountcreationconfirmation-frame1864 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.accountcreationconfirmation-globe {
+  width: 24px;
+  height: 24px;
+}
+ 
+.accountcreationconfirmation-text59 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+ 
+.accountcreationconfirmation-text60 {
+  color: rgba(96, 94, 92, 1);
+  height: auto;
+  text-align: left;
+  line-height: 19.5px;
+}
+ 
+.accountcreationconfirmation-text61 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.accountcreationconfirmation-text62 {
+  color: rgba(96, 94, 92, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 19.5px;
+}
+ 
+.accountcreationconfirmation-emailheader {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 600px;
+  height: 80px;
+  margin: auto;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.accountcreationconfirmation-section-hero {
+  top: 0px;
+  left: 0px;
+  width: 601px;
+  height: 80px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.accountcreationconfirmation-ellipse18 {
+  top: -37px;
+  left: 317px;
+  width: 164px;
+  height: 164px;
+  position: absolute;
+}
+ 
+.accountcreationconfirmation-ellipse20 {
+  top: -24px;
+  left: -15px;
+  width: 144px;
+  height: 137px;
+  position: absolute;
+}
+ 
+.accountcreationconfirmation-rectangle18 {
+  top: 0px;
+  left: 0px;
+  width: 601px;
+  height: 80px;
+  position: absolute;
+}
+ 
+.accountcreationconfirmation-logolockuph {
+  top: 28px;
+  left: 32px;
+  width: 90px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.accountcreationconfirmation-layer2 {
+  top: 0px;
+  left: 0px;
+  width: 90.2535171508789px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.accountcreationconfirmation-logoicon {
+  top: 0px;
+  left: 0px;
+  width: 90.2535171508789px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.accountcreationconfirmation-layer2copy {
+  top: 0px;
+  left: 0px;
+  width: 90.2535171508789px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.accountcreationconfirmation-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 19px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.accountcreationconfirmation-vector2 {
+  top: 6.703808307647705px;
+  left: 28.58757972717285px;
+  width: 25px;
+  height: 17px;
+  position: absolute;
+}
+ 
+.accountcreationconfirmation-vector3 {
+  top: 0px;
+  left: 55.17236328125px;
+  width: 5px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.accountcreationconfirmation-vector4 {
+  top: 2.586724281311035px;
+  left: 61.32313919067383px;
+  width: 11px;
+  height: 21px;
+  position: absolute;
+}
+ 
+.accountcreationconfirmation-vector5 {
+  top: 6.710338115692139px;
+  left: 72.76370239257812px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+ 
+.accountcreationconfirmation-ellipse2 {
+  top: -9px;
+  left: 477px;
+  width: 105px;
+  height: 105px;
+  position: absolute;
+}
+ 
+.accountcreationconfirmation-ellipse3 {
+  top: 35px;
+  left: 443px;
+  width: 59px;
+  height: 59px;
+  position: absolute;
+}
+ 
+.accountcreationconfirmation-mailreceived1 {
+  top: 1px;
+  left: 493.9375px;
+  width: 74px;
+  height: 79px;
+  position: absolute;
+}
